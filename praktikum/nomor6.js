@@ -1,6 +1,6 @@
-let value = [1, 2, 3, 4, 5, 6];
-value = value.map((x) => {
-  return x * 2;
-});
+let arr = [1.5, 2.56, 5.1, 12.33];
 
-console.log(value);
+arr = arr.map((e) => {
+  return Math.round(e);
+});
+console.log(arr);
