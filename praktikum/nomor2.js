@@ -1,5 +1,15 @@
 // Nomer 2
 /*  
+SOAL
+-------
+a. jelaskan kenapa baris 21,22,23 tidak dapat tampil?
+b. jelaskan kenapa deklarasi pada baris 26 menyebabkan error?
+c. Dengan melakukan komen pada baris ke 26, apakah baris 28 dapat di eksekusi? jelaskan.
+ */
+
+/*  
+Jawab 
+-------
  - nomer 2a
     baris 21,22,23 tidak dapat tampil 
     dikarenakan variabel "terdaftar" memiliki nilai awal false
